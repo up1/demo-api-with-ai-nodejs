@@ -14,10 +14,10 @@ description: Generate test cases for API endpoints using Bruno
 ```
 api-testing/
 ├── opencollection.yml
-├── feature_name_case_200.yml
-├── feature_name_case_400.yml
-├── feature_name_case_201.yml
-├── feature_name_case_404.yml
-├── feature_name_case_500.yml
+├── feature_name_testcase_name_200.yml
+├── feature_name_testcase_name_400.yml
+├── feature_name_testcase_name_201.yml
+├── feature_name_testcase_name_404.yml
+├── feature_name_testcase_name_500.yml
 └── README.md
 ```
